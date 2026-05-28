@@ -10,3 +10,5 @@ During my studies, I worked on several technical and research-driven projects, i
 
 - Participating in the 2025 Mathematical Contest in Modeling (MCM), where my team developed a Python-based model to help tourism-heavy regions balance economic revenue with environmental sustainability
 
+- Created a CRUD App for a fictional reptile store with Streamlit and Python.
+
