@@ -1,11 +1,12 @@
 # Hey, I'm Brandon :)
 
-Mathematics-focused builder graduating June 2026.
-My background is in mathematical modeling and numerical methods. These days I have also started building practical tools that solve problems I actually run into. Its important to me that tools we use in our daily lifes are:
-1. **Fast**
-2. **Easy to use and understand**
-3. **Effective**
+New graduate mathematician from Western Washington University with a strong focus on computational mathematics, modeling, and applied problem-solving.
 
-**OpenJobTrack** is a good example: I built it because I couldn't find a free, simple job tracker with useful AI integrations built in.
+During my studies, I worked on several technical and research-driven projects, including:
 
-Currently looking for my first role in software or CS. 
+- Conducting independent faculty-led research using the Finite Element Method and the Poisson-Boltzmann equation to model cellular ion channels with Python and FEniCSx
+
+- Developing a Python/Pygame simulation package to model the spread of invasive tegus in the Everglades
+
+- Participating in the 2025 Mathematical Contest in Modeling (MCM), where my team developed a Python-based model to help tourism-heavy regions balance economic revenue with environmental sustainability
+
