@@ -4,7 +4,7 @@ New graduate mathematician from Western Washington University with a strong focu
 
 During my studies, I worked on several technical and research-driven projects, including:
 
-- Built a `Python` backend tool for a fictional reptile company featuring a KPI dashboard, CRUD-based database management on a `GCP`-hosted `SQL` server, automated `CI/CD` pipelines with `GitHub Actions`, and an AI chatbot powered by `GPT-4o` and `LlamaIndex` that performs RAG on markdown care sheets and executes `SQL` queries in natural language.
+- Built a `Python` backend tool for a fictional reptile company featuring a KPI dashboard, CRUD-based database management on a `GCP`-hosted `SQL` server, automated `CI/CD` pipelines with `GitHub Actions`, and an AI chatbot powered by `GPT-4o` and `LlamaIndex` that performs `RAG` on markdown care sheets and executes `SQL` queries in natural language.
   
 - Conducting independent faculty-led research using the Finite Element Method and the Poisson-Boltzmann equation to model cellular ion channels with Python and FEniCSx
 
